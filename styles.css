@@ -1,0 +1,42 @@
+
+h1{
+	text-align: center;
+	padding: 70px;
+}
+
+p{
+	padding: 10px;
+	float: right;
+	border-left:  solid;
+	border-bottom: solid;
+	border-color: black;
+	background-color: cyan;
+	font-family: algerian;
+	font-style: bold;
+	font-size:30px;
+}
+
+#d1{
+	border-spacing: 10px;
+	border: solid;
+	border-color: black;
+	background-color: yellow;
+    padding: 0px;
+    font-family: helvetica;
+}
+#d2{
+	border: solid;
+	border-color: black;
+	background-color: yellow;
+    padding: 0px;
+    font-family: helvetica;
+    
+}
+#d3{
+	border: solid;
+	border-color: black;
+	background-color: yellow;
+    padding: 0px;
+    font-family: helvetica;
+    
+}
